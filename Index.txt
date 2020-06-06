@@ -1,0 +1,69 @@
+## Index of source code examples:
+
+\Automate Desktop Apps
+\Convert HL7 to Spreadsheet
+\Convert Scanned PDF to Excel
+\Create side by side manifest
+\Display PDF in Browser and Select Area Using PDF.js
+\Extract Text From Large PDF Document in Parallel Processing
+\Generate and Check QR Code Barcode with Image Inside
+\Generate Barcodes From Spreadsheet
+\Hide Images In PDF Document
+\Human Assisted Invoice Parsing
+\Invoice fraud detection
+\Make Large PDF Document Searchable Using Parallel Processing
+\Parse Invoice
+\PDF Data Remover Tool
+\PDF Invoices to Google Sheets
+\PDF Invoices to Spreadsheet
+\Read PDF with Scanned Image and Hindi Text
+\Regular Expression Search and Highlight in PDF
+\Regular Expression Search In PDF And Highlight On Rendered Page
+\Remove Text From Selected Regions
+\Select Region And Perform OCR
+\Slice PDF by Horizontal Lines Inside
+\Automate Desktop Apps\C#
+\Automate Desktop Apps\C#\AutomateDesktopApp
+\Automate Desktop Apps\C#\InvoiceSayHello
+\Automate Desktop Apps\C#\AutomateDesktopApp\Sample_Files
+\Automate Desktop Apps\C#\AutomateDesktopApp\Screenshots
+\Convert HL7 to Spreadsheet\C#
+\Convert HL7 to Spreadsheet\C#\Sample_Files
+\Convert HL7 to Spreadsheet\C#\Src
+\Convert Scanned PDF to Excel\C#
+\Convert Scanned PDF to Excel\VB.NET
+\Create side by side manifest\VB6
+\Display PDF in Browser and Select Area Using PDF.js\Javascript and PDF.js v1.x
+\Display PDF in Browser and Select Area Using PDF.js\Javascript and PDF.js v2.x
+\Extract Text From Large PDF Document in Parallel Processing\C#
+\Generate and Check QR Code Barcode with Image Inside\C#
+\Generate and Check QR Code Barcode with Image Inside\VB.NET
+\Generate Barcodes From Spreadsheet\VBScript
+\Hide Images In PDF Document\C#
+\Human Assisted Invoice Parsing\C#
+\Invoice fraud detection\C#
+\Invoice fraud detection\VB.NET
+\Invoice fraud detection\C#\Sample_Files
+\Invoice fraud detection\VB.NET\Sample_Files
+\Make Large PDF Document Searchable Using Parallel Processing\C#
+\Make Large PDF Document Searchable Using Parallel Processing\VB.NET
+\Parse Invoice\C#
+\Parse Invoice\VB.NET
+\PDF Data Remover Tool\C#
+\PDF Invoices to Google Sheets\C#
+\PDF Invoices to Google Sheets\VB.NET
+\PDF Invoices to Google Sheets\C#\Sample_Files
+\PDF Invoices to Google Sheets\VB.NET\Sample_Files
+\PDF Invoices to Spreadsheet\C#
+\PDF Invoices to Spreadsheet\VB.NET
+\PDF Invoices to Spreadsheet\C#\Sample_Files
+\PDF Invoices to Spreadsheet\VB.NET\Sample_Files
+\Read PDF with Scanned Image and Hindi Text\C#
+\Read PDF with Scanned Image and Hindi Text\VB.NET
+\Regular Expression Search and Highlight in PDF\C#
+\Regular Expression Search and Highlight in PDF\VB.NET
+\Regular Expression Search In PDF And Highlight On Rendered Page\C#
+\Remove Text From Selected Regions\C#
+\Select Region And Perform OCR\C#
+\Slice PDF by Horizontal Lines Inside\C#
+\Slice PDF by Horizontal Lines Inside\VB.NET
